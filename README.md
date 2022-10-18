@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jasii1
+- 👋 Hi, I’m @Jasiel Andrade
 - 👀 I’m interested in coding, weight lifting, and automobiles
 - 🌱 I’m currently learning fullstack web development
 - 💞️ I’m looking to collaborate on future projects that I may need help with
